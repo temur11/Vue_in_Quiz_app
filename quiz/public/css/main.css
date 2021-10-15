@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(255, 251, 246, 0.52);
+}
+
+.list{
+    list-style: none;
+}
+.correct{
+    background-color: rgba(9, 233, 46, 0.856);
+}
+.incorrect{
+    background-color: crimson;
+    color: white;
+}
